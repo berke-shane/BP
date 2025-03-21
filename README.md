@@ -1,1 +1,1 @@
-# BP
+# BP (Basics of PRograming)
